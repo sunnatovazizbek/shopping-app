@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606795877312",
+    "project_id": "shop-for-man",
+    "storage_bucket": "shop-for-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606795877312:android:60bbd31be3db7343939625",
+        "android_client_info": {
+          "package_name": "com.example.manshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Jb8foItf5HvE33QqWuLSzFgIHgl5ug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
